@@ -28,3 +28,6 @@ Ramin Gozarani Eghtesad
 Independent Researcher  
 ORCID: 0009-0002-8667-8738  
 Email: ramineqtesad@gmail.com
+reprint (SSRN):** [SSRN Abstract ID 5422070](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5422070)  
+**Author:** ORCID: [0009-0002-8667-8738](https://orcid.org/0009-0002-8667-8738)  
+**Contact:** ramineqtesad@gmail.com
